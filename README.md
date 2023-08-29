@@ -29,8 +29,8 @@ Welcome to the Snake Game project! This interactive game features a snake, orang
 
 ## Installation
 
-1. Clone this repository to your local machine:
- git clone [ https://github.com/your-username/snake-game.git](https://github.com/SalehBaaisharah/Snake_Game.git)
+1. Clone this repository to your local machine:<br />
+`$ git clone https://github.com/SalehBaaisharah/Snake_Game.git`
 
 
 2. Open the project directory and launch the game.
